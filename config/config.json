@@ -4,5 +4,7 @@
   "dataset_reporting_tgt": "",
   "dataset_cdc_processed": "",
   "k9_datasets_processing": "",
-  "k9_datasets_reporting": ""
+  "k9_datasets_reporting": "",
+  "training_url":  "URL/api/v0/train",
+  "admin_api_key": ""  
 }
