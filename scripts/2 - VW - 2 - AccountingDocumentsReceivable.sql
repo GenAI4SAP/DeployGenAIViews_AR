@@ -1,4 +1,4 @@
-create or replace view {{ project_id_tgt }}.{{ dataset_reporting_tgt }}.AccountingDocumentsReceivableGenAI as
+create or replace view {{ project_id_tgt }}.{{ dataset_reporting_tgt }}.AccountingDocumentsReceivable as
 SELECT
   AccountingDocuments.Client_MANDT,
   AccountingDocuments.ExchangeRateType_KURST,
